@@ -8,7 +8,7 @@
 
 # 마크다운 문법
 ## tstory 연결 링크부터
-[Purum webpage](https://www.pururm.com)
+[Purum webpage](https://pururm.com)
 
 * 리스트 작성에는 "*" 사용
  * 하위 리스트 작성 1
@@ -19,4 +19,6 @@
  >글자체 변경 방법으로 문장 중간에 "*" 를 넣어 변경할 수 있다.
  글자체 변경은 * 이렇게 *
  글자체 변경 2는 ** 이렇게 *
- 
+
+ * 이것은 웹 이미지
+![python image2](https://www.raspberrypi.org/documentation/usage/python/images/python-logo.png)

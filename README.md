@@ -5,6 +5,8 @@
 ![mediumish](assets/images/mediumish-jekyll-template.png)
 
 
+이것은 테스트입니다.
+
 ### Copyright
 
 Copyright (C) 2019 Sal, https://www.wowthemes.net
